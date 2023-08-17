@@ -1,0 +1,436 @@
+{
+  "items": [
+    {
+      "id": "85233876",
+      "premium": false,
+      "name": "\u041c\u043b\u0430\u0434\u0448\u0438\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1399",
+        "name": "\u041c\u0430\u0433\u043d\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a",
+        "url": "https://api.hh.ru/areas/1399"
+      },
+      "salary": {
+        "from": 40000,
+        "to": 70000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-08-17T10:41:14+0300",
+      "created_at": "2023-08-17T10:41:14+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=85233876",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/85233876?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/85233876",
+      "relations": [],
+      "employer": {
+        "id": "5094353",
+        "name": "\u0411\u0435\u043b\u043a\u0430 \u0414\u0438\u0434\u0436\u0438\u0442\u0430\u043b",
+        "url": "https://api.hh.ru/employers/5094353",
+        "alternate_url": "https://hh.ru/employer/5094353",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/903360.png",
+          "90": "https://hhcdn.ru/employer-logo/4054127.png",
+          "240": "https://hhcdn.ru/employer-logo/4054128.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5094353",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u0415\u0441\u0442\u044c \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u043e\u043f\u044b\u0442 \u0440\u0430\u0431\u043e\u0442\u044b (\u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0445\u043e\u0440\u043e\u0448\u043e \u2014 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u043e\u0439) \u043b\u0438\u0431\u043e, \u0435\u0441\u043b\u0438 \u043d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430, \u0442\u043e \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043d\u0430\u043b\u0438\u0447\u0438\u0435: - \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u043f\u0440\u043e\u0444\u0438\u043b\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439...",
+        "responsibility": "\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b \u0440\u0435\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445, ER-\u0430\u043d\u0430\u043b\u0438\u0437, SQL-\u0437\u0430\u043f\u0440\u043e\u0441\u044b. - \u043f\u043e\u043a\u0440\u044b\u0442\u0438\u0435 \u0441\u0432\u043e\u0435\u0433\u043e \u043a\u043e\u0434\u0430 \u044e\u043d\u0438\u0442-\u0442\u0435\u0441\u0442\u0430\u043c\u0438. - \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0432\u043e\u0435\u0433\u043e \u043a\u043e\u0434\u0430. - \u0440\u0430\u0431\u043e\u0442\u0430 \u0432 Linux..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "84963203",
+      "premium": false,
+      "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442-\u0441\u0442\u0430\u0436\u0435\u0440",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 15000,
+        "to": 150000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-08-11T18:39:39+0300",
+      "created_at": "2023-08-11T18:39:39+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84963203",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/84963203?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/84963203",
+      "relations": [],
+      "employer": {
+        "id": "4344166",
+        "name": "\u0413\u041a VOLOPAS",
+        "url": "https://api.hh.ru/employers/4344166",
+        "alternate_url": "https://hh.ru/employer/4344166",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3364661.png",
+          "90": "https://hhcdn.ru/employer-logo/3364660.png",
+          "original": "https://hhcdn.ru/employer-logo-original/730894.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4344166",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u043d\u0430\u043b\u0438\u0447\u0438\u0435 \u043f\u0440\u0438\u043c\u0435\u0440\u043e\u0432 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u043d\u044b\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 (\u0434\u0435\u043c\u043e, \u0442\u0435\u0441\u0442\u043e\u0432\u044b\u0435, \u043e\u043f\u0435\u043d-\u0441\u043e\u0440\u0441). - \u0436\u0435\u043b\u0430\u043d\u0438\u0435 \u043e\u0431\u0443\u0447\u0430\u0442\u044c\u0441\u044f \u0438 \u043f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0442\u044c\u0441\u044f. - \u0437\u043d\u0430\u043d\u0438\u0435 \u043e\u0441\u043d\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f.",
+        "responsibility": null
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "\u041c\u043e\u0436\u043d\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441\u043c\u0435\u043d\u0430\u043c\u0438 \u043f\u043e\u00a04\u20136 \u0447\u0430\u0441\u043e\u0432 \u0432\u00a0\u0434\u0435\u043d\u044c"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "\u041c\u043e\u0436\u043d\u043e \u043d\u0430\u0447\u0438\u043d\u0430\u0442\u044c \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u043f\u043e\u0441\u043b\u0435 16:00"
+        }
+      ],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "probation",
+        "name": "\u0421\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0430"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "84241995",
+      "premium": false,
+      "name": "\u0421\u0442\u0430\u0436\u0435\u0440 BI \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "159",
+        "name": "\u0410\u0441\u0442\u0430\u043d\u0430",
+        "url": "https://api.hh.ru/areas/159"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-30T21:43:18+0300",
+      "created_at": "2023-07-30T21:43:18+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84241995",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/84241995?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/84241995",
+      "relations": [],
+      "employer": {
+        "id": "3751916",
+        "name": "Geometry",
+        "url": "https://api.hh.ru/employers/3751916",
+        "alternate_url": "https://hh.ru/employer/3751916",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/1023246.png",
+          "240": "https://hhcdn.ru/employer-logo/5713753.png",
+          "90": "https://hhcdn.ru/employer-logo/5713752.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3751916",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u0437\u043d\u0430\u043d\u0438\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0432\u0438\u0437\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, Power BI, Qlik) \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u043c. - \u0412\u043b\u0430\u0434\u0435\u043d\u0438\u0435 \u044f\u0437\u044b\u043a\u0430\u043c\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, <highlighttext>Python</highlighttext>, R) \u043f\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442\u0441\u044f. - \u0421\u0442\u0440\u0435\u043c\u043b\u0435\u043d\u0438\u0435 \u0443\u0447\u0438\u0442\u044c\u0441\u044f, \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f...",
+        "responsibility": "\u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435: \u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u043c\u0438 \u043d\u0430\u0431\u043e\u0440\u0430\u043c\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0442\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u0439, \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0432\u0438\u0437\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0439 \u0438 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0435 \u0446\u0435\u043d\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0434\u043b\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432. "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "156",
+          "name": "BI-\u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a, \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "probation",
+        "name": "\u0421\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0430"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "85085309",
+      "premium": false,
+      "name": "Junior Machine Learning Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 100000,
+        "to": 150000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-08-15T07:07:32+0300",
+      "created_at": "2023-08-15T07:07:32+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=85085309",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/85085309?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/85085309",
+      "relations": [],
+      "employer": {
+        "id": "51900",
+        "name": "Siberian Wellness",
+        "url": "https://api.hh.ru/employers/51900",
+        "alternate_url": "https://hh.ru/employer/51900",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2793640.png",
+          "90": "https://hhcdn.ru/employer-logo/2793639.png",
+          "original": "https://hhcdn.ru/employer-logo-original/588096.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=51900",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u041f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0438\u0439 \u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u043d\u0435 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c \u0445\u043e\u0440\u043e\u0448 \u0432\u043e \u0432\u0441\u0451\u043c \u043f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u043c, \u043d\u043e \u0445\u043e\u0442\u044f \u0431\u044b \u0441\u043b\u044b\u0448\u0430\u0442\u044c \u043e\u0431 \u044d\u0442\u043e\u043c \u043e\u0431\u044f\u0437\u0430\u043d: \u2043 \u043c\u0435\u0442\u043e\u0434\u044b \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445. \u2043 ",
+        "responsibility": "\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f. \u041d\u0430 \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0438\u0432\u044f\u0437\u043a\u0438 \u043a \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0435. \u0411\u0443\u0434\u0435\u0442 \u0440\u043e\u0442\u0430\u0446\u0438\u044f \u043f\u043e \u0440\u0430\u0437\u043d\u044b\u043c \u0437\u0430\u0434\u0430\u0447\u0430\u043c, \u043d\u0443\u0436\u043d\u044b\u043c \u0431\u0438\u0437\u043d\u0435\u0441\u0443: \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438, \u043c\u043e\u0448\u0435\u043d\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u043e, \u0440\u0435\u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u044f \u0438..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "165",
+          "name": "\u0414\u0430\u0442\u0430-\u0441\u0430\u0439\u0435\u043d\u0442\u0438\u0441\u0442"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "85252162",
+      "premium": false,
+      "name": "Pyth\u200eon-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": null,
+        "to": 40000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": {
+        "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "street": "\u0410\u0432\u0442\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+        "building": "23\u0410\u043a2",
+        "lat": 55.70285,
+        "lng": 37.648474,
+        "description": null,
+        "raw": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0410\u0432\u0442\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, 23\u0410\u043a2",
+        "metro": {
+          "station_name": "\u0410\u0432\u0442\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f",
+          "line_name": "\u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0446\u043a\u0430\u044f",
+          "station_id": "2.2",
+          "line_id": "2",
+          "lat": 55.706634,
+          "lng": 37.657008
+        },
+        "metro_stations": [
+          {
+            "station_name": "\u0410\u0432\u0442\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f",
+            "line_name": "\u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0446\u043a\u0430\u044f",
+            "station_id": "2.2",
+            "line_id": "2",
+            "lat": 55.706634,
+            "lng": 37.657008
+          },
+          {
+            "station_name": "\u0410\u0432\u0442\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f",
+            "line_name": "\u041c\u0426\u041a",
+            "station_id": "95.530",
+            "line_id": "95",
+            "lat": 55.70631,
+            "lng": 37.66314
+          },
+          {
+            "station_name": "\u0417\u0418\u041b",
+            "line_name": "\u041c\u0426\u041a",
+            "station_id": "95.531",
+            "line_id": "95",
+            "lat": 55.698333,
+            "lng": 37.648333
+          }
+        ],
+        "id": "7428508"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-08-17T13:53:25+0300",
+      "created_at": "2023-08-17T13:53:25+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=85252162",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/85252162?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/85252162",
+      "relations": [],
+      "employer": {
+        "id": "6084594",
+        "name": "\u0411\u0438\u0442\u0430\u043f\u043b",
+        "url": "https://api.hh.ru/employers/6084594",
+        "alternate_url": "https://hh.ru/employer/6084594",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/947685.png",
+          "240": "https://hhcdn.ru/employer-logo/4231277.png",
+          "90": "https://hhcdn.ru/employer-logo/4231276.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6084594",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u041e\u0442\u043b\u0438\u0447\u043d\u044b\u0435 \u0437\u043d\u0430\u043d\u0438\u044f <highlighttext>Python</highlighttext> \u0438 SQL. \u0423\u043c\u0435\u043d\u0438\u0435 \u043f\u0438\u0441\u0430\u0442\u044c \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u043c\u044b\u0439 \u0438 \u0442\u0435\u0441\u0442\u0438\u0440\u0443\u0435\u043c\u044b\u0439 \u043a\u043e\u0434. \u0423\u043c\u0435\u043d\u0438\u0435 \u0434\u0435\u043a\u043e\u043c\u043f\u043e\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0437\u0430\u0434\u0430\u0447\u0438, \u043e\u0446\u0435\u043d\u0438\u0432\u0430\u0442\u044c \u0438\u0445 \u0438 \u0432\u044b\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u0441\u0440\u043e\u043a\u0438. ",
+        "responsibility": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 \u043d\u0430 django \u0438 fastapi. \u0420\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0437\u0430\u0434\u0430\u0447 \u043d\u0430\u0437\u043d\u0430\u0447\u0430\u0435\u043c\u044b\u0445 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440\u043e\u043c \u0441\u0438\u0441\u0442\u0435\u043c\u044b. \u0420\u0430\u0431\u043e\u0442\u0430 \u0432 \u043c\u0438\u043a\u0440\u043e\u0441\u0435\u0440\u0432\u0438\u0441\u043d\u043e\u0439 \u043f\u0430\u0440\u0430\u0434\u0438\u0433\u043c\u0435. \u041f\u043e\u043a\u0440\u044b\u0442\u0438\u0435 \u043a\u043e\u0434\u0430 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c\u0438..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    }
+  ],
+  "found": 11458,
+  "pages": 400,
+  "per_page": 5,
+  "page": 1,
+  "clusters": null,
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true&items_on_page=5&page=1&text=Python"
+}
